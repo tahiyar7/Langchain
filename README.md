@@ -1,6 +1,6 @@
-<span style="color:blue">About LangChain and Key Points:</span>
 
-:rocket: Welcome to my awesome project! :star:
+
+:rocket: About LangChain * OpenAi :star:
 
 
  LangChain, a hypothetical project based on the request, could aim to prove the following points:
