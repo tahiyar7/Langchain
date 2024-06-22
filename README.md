@@ -1,6 +1,6 @@
 
 
-:rocket: About LangChain * OpenAi :star:
+:rocket: ## About LangChain * OpenAi :star:
 
 
  LangChain, a hypothetical project based on the request, could aim to prove the following points:
