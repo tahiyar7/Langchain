@@ -3,7 +3,7 @@
 :rocket: ** About LangChain * OpenAi ** :star:
 
 
- LangChain, a hypothetical project based on the request, could aim to prove the following points:
+ **LangChain, a hypothetical project based on the request, could aim to prove the following points:**
 
 Language Understanding: Demonstrates the ability to process and analyze textual data (like movie descriptions) to extract meaningful insights and patterns.
 
