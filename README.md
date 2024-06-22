@@ -165,7 +165,9 @@ This code integrates OpenAI's API key to generate embeddings from movie descript
 
 
 
+Challenges:
 
+It seems there have been significant changes in the OpenAI Python library (openai) that affect how certain functionalities, such as openai.Embedding, are accessed. There are error message indicates that the method openai.Embedding is no longer supported in version 1.0.0 and higher of the openai library.
 
 
 
