@@ -1,4 +1,5 @@
 <span style="color:blue">About LangChain and Key Points:</span>
+- <span style="color:red">Red text</span>
 
  LangChain, a hypothetical project based on the request, could aim to prove the following points:
 
