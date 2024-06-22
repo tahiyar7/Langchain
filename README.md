@@ -75,7 +75,7 @@ Step-by-Step Integration:
 Step 1: Setup and Imports
 Ensure you have the necessary libraries installed (pandas, matplotlib, seaborn, openai) and import them in your Jupyter Notebook.
 
-python
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -84,7 +84,7 @@ import openai
 Step 2: Loading and Preprocessing the Dataset
 Load the IMDb dataset (movies_metadata.csv) and perform basic data cleaning.
 
-python
+
 
 # Load the IMDb dataset
 df = pd.read_csv('/kaggle/input/the-movies-dataset/movies_metadata.csv')
@@ -94,14 +94,11 @@ df_clean = df.dropna(subset=['overview', 'genres']).copy()
 Step 3: Setting Up OpenAI API
 Initialize OpenAI with your API key.
 
-python
-
 # Initialize OpenAI API with your API key
 openai.api_key = '9e263e92bbb5a7f2f53515915f2c3f83'
 Step 4: Generating Embeddings using OpenAI's API
 Use OpenAI's API to generate embeddings for movie descriptions.
 
-python
 
 # Function to generate embeddings using OpenAI's GPT-3 model
 def generate_embeddings(text):
@@ -116,7 +113,6 @@ df_clean['embedding'] = df_clean['overview'].apply(generate_embeddings)
 Step 5: Example Usage - Getting Recommendations
 Example function to get movie recommendations based on embeddings (similar to previous code):
 
-python
 
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
@@ -139,7 +135,6 @@ print(recommended_movies[['title', 'genres']])
 Step 6: Visualizations and Insights
 Include visualizations as per previous examples to analyze movie release years and genres.
 
-python
 
 # Visualizations
 # Example: Plotting the distribution of movie release years
