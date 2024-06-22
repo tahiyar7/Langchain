@@ -1,4 +1,8 @@
-# Langchain
+# Langchain + OpenAi
+
+![image](https://github.com/tahiyar7/Langchain/assets/105504069/2f62f218-a33f-41ba-b9af-1594914348a4)
+
+
 LangChain, results created for a general recommendation system and the metrics from the user perspective. 
 
 About LangChain and Key Points:
