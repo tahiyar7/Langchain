@@ -74,7 +74,14 @@ pip install langchain_community
 * Secondly, the API Key
   Maks sure you secure your API key. because I ddi not use the api key in my code, if you use the same code you may run into soem error. So make sure you add ypur api key.
 
- # Thank You. 
+# The Project Subject: 
+
+1) Creating a simplistic template by utilizing soirces in google search, openai, and running the model.
+2) Langchain model itilized to create the outcomes for the movies dataset and find which types of movies have the highest probability. 
+
+
+
+
 
 
 
