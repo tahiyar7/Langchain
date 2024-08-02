@@ -57,7 +57,7 @@ pip install langchain
 * Alternate checking: 
 Update langchain:
 Make sure you are using the latest version of langchain by updating it:
-pip install --upgrade langchain
+pip install --upgrade langchain :trident:
 
 
 * Alternate Checking: 
