@@ -41,7 +41,7 @@ Potential applications extend to various domains beyond movie recommendations, i
 
 # Challenges:
 
-It seems there have been significant changes in the OpenAI Python library (openai) that affect how certain functionalities, such as openai.Embedding, are accessed. There are error message indicates that the method openai.Embedding is no longer supported in version 1.0.0 and higher of the openai library.
+It seems there have been significant changes in the OpenAI Python library (openai) that affect how certain functionalities :trident: , such as openai.Embedding, are accessed. There are error message indicates that the method openai.Embedding is no longer supported in version 1.0.0 and higher of the openai library.
 
 
 # Project 2:
